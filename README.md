@@ -1,2 +1,2 @@
 # Task-Boost
-To Do List Organizer Mobiel App
+To Do List Organizer Mobile App
